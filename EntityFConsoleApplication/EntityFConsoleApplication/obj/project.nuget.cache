@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVC4d1+ZWoVfzjm1NgfjRB4LEAs71ifJSa1CddEpiqMDiQRT1sFDUfd6Eb6V+GrHpKFpVnWFRoN145T+bn6K9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VISHNU SIJU\\source\\repos\\EntityFConsoleApplication\\EntityFConsoleApplication\\EntityFConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\bin\Debug\netcoreapp3.1\SocketProgramming.exe
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\bin\Debug\netcoreapp3.1\SocketProgramming.deps.json
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\bin\Debug\netcoreapp3.1\SocketProgramming.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\bin\Debug\netcoreapp3.1\SocketProgramming.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\bin\Debug\netcoreapp3.1\SocketProgramming.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\bin\Debug\netcoreapp3.1\SocketProgramming.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\obj\Debug\netcoreapp3.1\SocketProgramming.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\obj\Debug\netcoreapp3.1\SocketProgramming.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\obj\Debug\netcoreapp3.1\SocketProgramming.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\obj\Debug\netcoreapp3.1\SocketProgramming.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\obj\Debug\netcoreapp3.1\SocketProgramming.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\obj\Debug\netcoreapp3.1\SocketProgramming.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgramming\obj\Debug\netcoreapp3.1\SocketProgramming.genruntimeconfig.cache

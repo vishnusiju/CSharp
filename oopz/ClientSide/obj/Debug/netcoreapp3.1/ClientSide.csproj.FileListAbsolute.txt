@@ -1,0 +1,15 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.exe
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.deps.json
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.Form1.resources
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csproj.GenerateResource.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.genruntimeconfig.cache

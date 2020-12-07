@@ -1,0 +1,13 @@
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csprojAssemblyReference.cache
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CoreCompileInputs.cache
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+E:\.net coding\SocketProgramming\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+E:\.net coding\SocketProgramming\SocketServer\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+C:\Users\VISHNU SIJU\source\repos\ADO.NET\ADO.NETWA\obj\Debug\ADO.NETWA.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\ADO.NET\ADO.NETWA\obj\Debug\ADO.NETWA.csproj.CoreCompileInputs.cache

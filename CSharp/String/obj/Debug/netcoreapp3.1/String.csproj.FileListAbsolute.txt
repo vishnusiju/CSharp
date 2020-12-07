@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\bin\Debug\netcoreapp3.1\String.exe
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\bin\Debug\netcoreapp3.1\String.deps.json
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\bin\Debug\netcoreapp3.1\String.dll
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\bin\Debug\netcoreapp3.1\String.pdb
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\obj\Debug\netcoreapp3.1\String.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\obj\Debug\netcoreapp3.1\String.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\obj\Debug\netcoreapp3.1\String.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\obj\Debug\netcoreapp3.1\String.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\obj\Debug\netcoreapp3.1\String.dll
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\obj\Debug\netcoreapp3.1\String.pdb
+C:\Users\VISHNU SIJU\source\repos\CSharp\String\obj\Debug\netcoreapp3.1\String.genruntimeconfig.cache

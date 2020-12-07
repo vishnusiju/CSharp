@@ -1,0 +1,13 @@
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\bin\Debug\netcoreapp3.1\AsynchronousSocketClient.exe
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\bin\Debug\netcoreapp3.1\AsynchronousSocketClient.deps.json
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\bin\Debug\netcoreapp3.1\AsynchronousSocketClient.runtimeconfig.json
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\bin\Debug\netcoreapp3.1\AsynchronousSocketClient.runtimeconfig.dev.json
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\bin\Debug\netcoreapp3.1\AsynchronousSocketClient.dll
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\bin\Debug\netcoreapp3.1\AsynchronousSocketClient.pdb
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\obj\Debug\netcoreapp3.1\AsynchronousSocketClient.csprojAssemblyReference.cache
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\obj\Debug\netcoreapp3.1\AsynchronousSocketClient.AssemblyInfoInputs.cache
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\obj\Debug\netcoreapp3.1\AsynchronousSocketClient.AssemblyInfo.cs
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\obj\Debug\netcoreapp3.1\AsynchronousSocketClient.csproj.CoreCompileInputs.cache
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\obj\Debug\netcoreapp3.1\AsynchronousSocketClient.dll
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\obj\Debug\netcoreapp3.1\AsynchronousSocketClient.pdb
+E:\.net coding\SocketProgramming\AsynchronousSocket\AsynchronousSocketClient\obj\Debug\netcoreapp3.1\AsynchronousSocketClient.genruntimeconfig.cache

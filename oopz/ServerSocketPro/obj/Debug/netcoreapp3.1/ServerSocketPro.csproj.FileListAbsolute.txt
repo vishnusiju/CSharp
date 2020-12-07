@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\bin\Debug\netcoreapp3.1\ServerSocketPro.exe
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\bin\Debug\netcoreapp3.1\ServerSocketPro.deps.json
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\bin\Debug\netcoreapp3.1\ServerSocketPro.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\bin\Debug\netcoreapp3.1\ServerSocketPro.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\bin\Debug\netcoreapp3.1\ServerSocketPro.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\bin\Debug\netcoreapp3.1\ServerSocketPro.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\obj\Debug\netcoreapp3.1\ServerSocketPro.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\obj\Debug\netcoreapp3.1\ServerSocketPro.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\obj\Debug\netcoreapp3.1\ServerSocketPro.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\obj\Debug\netcoreapp3.1\ServerSocketPro.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\obj\Debug\netcoreapp3.1\ServerSocketPro.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\obj\Debug\netcoreapp3.1\ServerSocketPro.genruntimeconfig.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\ServerSocketPro\obj\Debug\netcoreapp3.1\ServerSocketPro.csprojAssemblyReference.cache

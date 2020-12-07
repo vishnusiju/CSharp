@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "script", "script\script.njsproj", "{AD0E3E7A-79AB-4893-B008-D83DC6306699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0E3E7A-79AB-4893-B008-D83DC6306699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0E3E7A-79AB-4893-B008-D83DC6306699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0E3E7A-79AB-4893-B008-D83DC6306699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0E3E7A-79AB-4893-B008-D83DC6306699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85AFF5F3-4662-4533-B9F7-FF8DCED3BD7D}
+	EndGlobalSection
+EndGlobal

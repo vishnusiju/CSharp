@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\bin\Debug\netcoreapp3.1\Csharpbasics.exe
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\bin\Debug\netcoreapp3.1\Csharpbasics.deps.json
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\bin\Debug\netcoreapp3.1\Csharpbasics.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\bin\Debug\netcoreapp3.1\Csharpbasics.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\bin\Debug\netcoreapp3.1\Csharpbasics.dll
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\bin\Debug\netcoreapp3.1\Csharpbasics.pdb
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\obj\Debug\netcoreapp3.1\Csharpbasics.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\obj\Debug\netcoreapp3.1\Csharpbasics.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\obj\Debug\netcoreapp3.1\Csharpbasics.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\obj\Debug\netcoreapp3.1\Csharpbasics.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\obj\Debug\netcoreapp3.1\Csharpbasics.dll
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\obj\Debug\netcoreapp3.1\Csharpbasics.pdb
+C:\Users\VISHNU SIJU\source\repos\Csharpbasics\Csharpbasics\obj\Debug\netcoreapp3.1\Csharpbasics.genruntimeconfig.cache

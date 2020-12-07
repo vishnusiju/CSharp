@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\bin\Debug\netcoreapp3.1\CollectionProject.exe
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\bin\Debug\netcoreapp3.1\CollectionProject.deps.json
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\bin\Debug\netcoreapp3.1\CollectionProject.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\bin\Debug\netcoreapp3.1\CollectionProject.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\bin\Debug\netcoreapp3.1\CollectionProject.dll
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\bin\Debug\netcoreapp3.1\CollectionProject.pdb
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\obj\Debug\netcoreapp3.1\CollectionProject.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\obj\Debug\netcoreapp3.1\CollectionProject.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\obj\Debug\netcoreapp3.1\CollectionProject.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\obj\Debug\netcoreapp3.1\CollectionProject.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\obj\Debug\netcoreapp3.1\CollectionProject.dll
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\obj\Debug\netcoreapp3.1\CollectionProject.pdb
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\CollectionProject\obj\Debug\netcoreapp3.1\CollectionProject.genruntimeconfig.cache

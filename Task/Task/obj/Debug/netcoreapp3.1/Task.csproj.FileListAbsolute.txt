@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\Task\Task\obj\Debug\netcoreapp3.1\Task.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Task\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Task\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\Users\VISHNU SIJU\source\repos\Task\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\Users\VISHNU SIJU\source\repos\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Task\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\Users\VISHNU SIJU\source\repos\Task\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\Users\VISHNU SIJU\source\repos\Task\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\Users\VISHNU SIJU\source\repos\Task\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\Users\VISHNU SIJU\source\repos\Task\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache

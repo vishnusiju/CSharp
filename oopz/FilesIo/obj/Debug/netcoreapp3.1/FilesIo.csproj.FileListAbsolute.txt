@@ -1,0 +1,4 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\FilesIo\obj\Debug\netcoreapp3.1\FilesIo.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\FilesIo\obj\Debug\netcoreapp3.1\FilesIo.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\FilesIo\obj\Debug\netcoreapp3.1\FilesIo.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\FilesIo\obj\Debug\netcoreapp3.1\FilesIo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\Users\VISHNU SIJU\source\repos\CollectionProject\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.genruntimeconfig.cache

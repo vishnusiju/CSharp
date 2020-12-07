@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oops", "oops\oops.csproj", "{819B2044-F3E2-438B-BD2C-BBE4F005F699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{F3A9EA3E-A6BD-4841-AC64-0B66B1F452A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor1", "Constructor1\Constructor1.csproj", "{B300911F-57C4-4165-82F3-9EAB2846E50C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819B2044-F3E2-438B-BD2C-BBE4F005F699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819B2044-F3E2-438B-BD2C-BBE4F005F699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819B2044-F3E2-438B-BD2C-BBE4F005F699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819B2044-F3E2-438B-BD2C-BBE4F005F699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A9EA3E-A6BD-4841-AC64-0B66B1F452A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A9EA3E-A6BD-4841-AC64-0B66B1F452A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A9EA3E-A6BD-4841-AC64-0B66B1F452A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A9EA3E-A6BD-4841-AC64-0B66B1F452A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B300911F-57C4-4165-82F3-9EAB2846E50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B300911F-57C4-4165-82F3-9EAB2846E50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B300911F-57C4-4165-82F3-9EAB2846E50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B300911F-57C4-4165-82F3-9EAB2846E50C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CF8F58-DF91-41C1-B0F4-0F553A17751B}
+	EndGlobalSection
+EndGlobal

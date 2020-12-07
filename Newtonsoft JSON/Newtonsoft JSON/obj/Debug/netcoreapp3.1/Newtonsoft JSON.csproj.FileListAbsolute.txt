@@ -1,0 +1,15 @@
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\bin\Debug\netcoreapp3.1\Newtonsoft JSON.exe
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\bin\Debug\netcoreapp3.1\Newtonsoft JSON.deps.json
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\bin\Debug\netcoreapp3.1\Newtonsoft JSON.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\bin\Debug\netcoreapp3.1\Newtonsoft JSON.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\bin\Debug\netcoreapp3.1\Newtonsoft JSON.dll
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\bin\Debug\netcoreapp3.1\Newtonsoft JSON.pdb
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.csproj.CopyComplete
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.dll
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.pdb
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\Newtonsoft JSON\obj\Debug\netcoreapp3.1\Newtonsoft JSON.genruntimeconfig.cache

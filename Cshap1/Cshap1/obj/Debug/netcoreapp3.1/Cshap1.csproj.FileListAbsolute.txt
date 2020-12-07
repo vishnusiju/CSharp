@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\bin\Debug\netcoreapp3.1\Cshap1.exe
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\bin\Debug\netcoreapp3.1\Cshap1.deps.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\bin\Debug\netcoreapp3.1\Cshap1.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\bin\Debug\netcoreapp3.1\Cshap1.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\bin\Debug\netcoreapp3.1\Cshap1.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\bin\Debug\netcoreapp3.1\Cshap1.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\obj\Debug\netcoreapp3.1\Cshap1.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\obj\Debug\netcoreapp3.1\Cshap1.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\obj\Debug\netcoreapp3.1\Cshap1.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\obj\Debug\netcoreapp3.1\Cshap1.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\obj\Debug\netcoreapp3.1\Cshap1.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\obj\Debug\netcoreapp3.1\Cshap1.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Cshap1\obj\Debug\netcoreapp3.1\Cshap1.genruntimeconfig.cache

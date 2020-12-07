@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SocketServer",
+    "\\SocketServer1",
+    "\\SocketServer1\\SocketClient1",
+    "\\SocketServer1\\SocketServer1",
+    "\\SocketServer\\SocketClient"
+  ],
+  "SelectedNode": "\\SocketServer\\SocketClient\\SocketClient.csproj",
+  "PreviewInSolutionExplorer": false
+}

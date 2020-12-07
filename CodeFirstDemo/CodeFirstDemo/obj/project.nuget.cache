@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCyff1+BIMukfYYvhbrneCMUFBYHSo6fYFMwA7Ynoqma26yJIz+Tytz1C7uJ4/x0d3x8tBNAzrUBj05KrXK0Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VISHNU SIJU\\source\\repos\\CodeFirstDemo\\CodeFirstDemo\\CodeFirstDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

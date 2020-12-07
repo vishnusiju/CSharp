@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\bin\Debug\netcoreapp3.1\ClientComm.exe
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\bin\Debug\netcoreapp3.1\ClientComm.deps.json
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\bin\Debug\netcoreapp3.1\ClientComm.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\bin\Debug\netcoreapp3.1\ClientComm.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\bin\Debug\netcoreapp3.1\ClientComm.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\bin\Debug\netcoreapp3.1\ClientComm.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\obj\Debug\netcoreapp3.1\ClientComm.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\obj\Debug\netcoreapp3.1\ClientComm.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\obj\Debug\netcoreapp3.1\ClientComm.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\obj\Debug\netcoreapp3.1\ClientComm.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\obj\Debug\netcoreapp3.1\ClientComm.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\obj\Debug\netcoreapp3.1\ClientComm.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\Forms\ClientComm\obj\Debug\netcoreapp3.1\ClientComm.genruntimeconfig.cache

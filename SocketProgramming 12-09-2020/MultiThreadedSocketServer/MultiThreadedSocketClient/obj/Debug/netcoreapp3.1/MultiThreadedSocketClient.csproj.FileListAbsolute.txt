@@ -1,0 +1,13 @@
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\bin\Debug\netcoreapp3.1\MultiThreadedSocketClient.exe
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\bin\Debug\netcoreapp3.1\MultiThreadedSocketClient.deps.json
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\bin\Debug\netcoreapp3.1\MultiThreadedSocketClient.runtimeconfig.json
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\bin\Debug\netcoreapp3.1\MultiThreadedSocketClient.runtimeconfig.dev.json
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\bin\Debug\netcoreapp3.1\MultiThreadedSocketClient.dll
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\bin\Debug\netcoreapp3.1\MultiThreadedSocketClient.pdb
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\obj\Debug\netcoreapp3.1\MultiThreadedSocketClient.csprojAssemblyReference.cache
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\obj\Debug\netcoreapp3.1\MultiThreadedSocketClient.AssemblyInfoInputs.cache
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\obj\Debug\netcoreapp3.1\MultiThreadedSocketClient.AssemblyInfo.cs
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\obj\Debug\netcoreapp3.1\MultiThreadedSocketClient.csproj.CoreCompileInputs.cache
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\obj\Debug\netcoreapp3.1\MultiThreadedSocketClient.dll
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\obj\Debug\netcoreapp3.1\MultiThreadedSocketClient.pdb
+E:\.net coding\SocketProgramming\MultiThreadedSocketServer\MultiThreadedSocketClient\obj\Debug\netcoreapp3.1\MultiThreadedSocketClient.genruntimeconfig.cache

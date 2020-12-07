@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pcX4+is+eJs0JIIsgxtMpkrlqWvYZcPnPmShdZBlT3PEcrLw2IiIq+R2GVDHm++KUqi2QLla/NlS6eyPu2Irg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VISHNU SIJU\\source\\repos\\Newtonsoft JSON\\Newtonsoft JSON\\Newtonsoft JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

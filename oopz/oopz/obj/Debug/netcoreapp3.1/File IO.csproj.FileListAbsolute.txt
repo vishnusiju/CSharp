@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\bin\Debug\netcoreapp3.1\File IO.exe
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\bin\Debug\netcoreapp3.1\File IO.deps.json
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\bin\Debug\netcoreapp3.1\File IO.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\bin\Debug\netcoreapp3.1\File IO.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\bin\Debug\netcoreapp3.1\File IO.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\bin\Debug\netcoreapp3.1\File IO.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\obj\Debug\netcoreapp3.1\File IO.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\obj\Debug\netcoreapp3.1\File IO.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\obj\Debug\netcoreapp3.1\File IO.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\obj\Debug\netcoreapp3.1\File IO.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\obj\Debug\netcoreapp3.1\File IO.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\obj\Debug\netcoreapp3.1\File IO.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\oopz\obj\Debug\netcoreapp3.1\File IO.genruntimeconfig.cache

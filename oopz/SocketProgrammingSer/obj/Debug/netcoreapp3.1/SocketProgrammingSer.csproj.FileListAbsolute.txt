@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\bin\Debug\netcoreapp3.1\SocketProgrammingSer.exe
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\bin\Debug\netcoreapp3.1\SocketProgrammingSer.deps.json
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\bin\Debug\netcoreapp3.1\SocketProgrammingSer.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\bin\Debug\netcoreapp3.1\SocketProgrammingSer.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\bin\Debug\netcoreapp3.1\SocketProgrammingSer.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\bin\Debug\netcoreapp3.1\SocketProgrammingSer.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\obj\Debug\netcoreapp3.1\SocketProgrammingSer.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\obj\Debug\netcoreapp3.1\SocketProgrammingSer.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\obj\Debug\netcoreapp3.1\SocketProgrammingSer.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\obj\Debug\netcoreapp3.1\SocketProgrammingSer.dll
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\obj\Debug\netcoreapp3.1\SocketProgrammingSer.pdb
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\obj\Debug\netcoreapp3.1\SocketProgrammingSer.genruntimeconfig.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\SocketProgrammingSer\obj\Debug\netcoreapp3.1\SocketProgrammingSer.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\bin\Debug\netcoreapp3.1\CustomExceptionInCshap.exe
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\bin\Debug\netcoreapp3.1\CustomExceptionInCshap.deps.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\bin\Debug\netcoreapp3.1\CustomExceptionInCshap.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\bin\Debug\netcoreapp3.1\CustomExceptionInCshap.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\bin\Debug\netcoreapp3.1\CustomExceptionInCshap.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\bin\Debug\netcoreapp3.1\CustomExceptionInCshap.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\obj\Debug\netcoreapp3.1\CustomExceptionInCshap.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\obj\Debug\netcoreapp3.1\CustomExceptionInCshap.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\obj\Debug\netcoreapp3.1\CustomExceptionInCshap.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\obj\Debug\netcoreapp3.1\CustomExceptionInCshap.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\obj\Debug\netcoreapp3.1\CustomExceptionInCshap.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\obj\Debug\netcoreapp3.1\CustomExceptionInCshap.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\CustomExceptionInCshap\obj\Debug\netcoreapp3.1\CustomExceptionInCshap.genruntimeconfig.cache

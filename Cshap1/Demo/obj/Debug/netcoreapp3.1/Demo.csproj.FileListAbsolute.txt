@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache

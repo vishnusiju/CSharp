@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOv6l+4eVWYCH0vDp+1jddnDjEOa8q3DDLs+TWlr5qVodNqnOLf8AKj7HRINhqXRiaOToI30KYdyHe7k7VzBHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VISHNU SIJU\\source\\repos\\DatabaseFirstDemo\\DatabaseFirstDemo\\DatabaseFirstDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\nuget.common\\5.8.0\\nuget.common.5.8.0.nupkg.sha512",
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\nuget.configuration\\5.8.0\\nuget.configuration.5.8.0.nupkg.sha512",
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\nuget.frameworks\\5.8.0\\nuget.frameworks.5.8.0.nupkg.sha512",
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\nuget.packaging\\5.8.0\\nuget.packaging.5.8.0.nupkg.sha512",
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\nuget.versioning\\5.8.0\\nuget.versioning.5.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

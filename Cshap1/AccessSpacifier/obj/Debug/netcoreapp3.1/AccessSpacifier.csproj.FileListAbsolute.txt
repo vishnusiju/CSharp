@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\bin\Debug\netcoreapp3.1\AccessSpacifier.exe
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\bin\Debug\netcoreapp3.1\AccessSpacifier.deps.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\bin\Debug\netcoreapp3.1\AccessSpacifier.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\bin\Debug\netcoreapp3.1\AccessSpacifier.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\bin\Debug\netcoreapp3.1\AccessSpacifier.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\bin\Debug\netcoreapp3.1\AccessSpacifier.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\obj\Debug\netcoreapp3.1\AccessSpacifier.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\obj\Debug\netcoreapp3.1\AccessSpacifier.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\obj\Debug\netcoreapp3.1\AccessSpacifier.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\obj\Debug\netcoreapp3.1\AccessSpacifier.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\obj\Debug\netcoreapp3.1\AccessSpacifier.dll
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\obj\Debug\netcoreapp3.1\AccessSpacifier.pdb
+C:\Users\VISHNU SIJU\source\repos\Cshap1\AccessSpacifier\obj\Debug\netcoreapp3.1\AccessSpacifier.genruntimeconfig.cache

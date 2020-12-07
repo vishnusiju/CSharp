@@ -1,0 +1,13 @@
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\obj\Debug\netcoreapp3.1\NJson.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\obj\Debug\netcoreapp3.1\NJson.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\obj\Debug\netcoreapp3.1\NJson.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\obj\Debug\netcoreapp3.1\NJson.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\bin\Debug\netcoreapp3.1\NJson.exe
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\bin\Debug\netcoreapp3.1\NJson.deps.json
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\bin\Debug\netcoreapp3.1\NJson.runtimeconfig.json
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\bin\Debug\netcoreapp3.1\NJson.runtimeconfig.dev.json
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\bin\Debug\netcoreapp3.1\NJson.dll
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\bin\Debug\netcoreapp3.1\NJson.pdb
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\obj\Debug\netcoreapp3.1\NJson.dll
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\obj\Debug\netcoreapp3.1\NJson.pdb
+C:\Users\VISHNU SIJU\source\repos\Newtonsoft JSON\NJson\obj\Debug\netcoreapp3.1\NJson.genruntimeconfig.cache

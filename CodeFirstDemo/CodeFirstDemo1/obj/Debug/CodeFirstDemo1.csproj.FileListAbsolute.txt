@@ -1,0 +1,12 @@
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe.config
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.pdb
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\bin\Debug\EntityFramework.dll
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\bin\Debug\EntityFramework.xml
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.CopyComplete
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.exe
+C:\Users\VISHNU SIJU\source\repos\CodeFirstDemo\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.pdb

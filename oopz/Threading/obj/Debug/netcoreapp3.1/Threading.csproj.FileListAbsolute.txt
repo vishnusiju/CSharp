@@ -1,0 +1,4 @@
+C:\Users\VISHNU SIJU\source\repos\oopz\Threading\obj\Debug\netcoreapp3.1\Threading.csprojAssemblyReference.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\oopz\Threading\obj\Debug\netcoreapp3.1\Threading.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\oopz\Threading\obj\Debug\netcoreapp3.1\Threading.csproj.CoreCompileInputs.cache

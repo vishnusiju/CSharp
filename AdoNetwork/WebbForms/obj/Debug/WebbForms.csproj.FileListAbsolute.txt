@@ -1,0 +1,3 @@
+C:\Users\VISHNU SIJU\source\repos\AdoNetwork\WebbForms\obj\Debug\WebbForms.AssemblyInfoInputs.cache
+C:\Users\VISHNU SIJU\source\repos\AdoNetwork\WebbForms\obj\Debug\WebbForms.AssemblyInfo.cs
+C:\Users\VISHNU SIJU\source\repos\AdoNetwork\WebbForms\obj\Debug\WebbForms.csproj.CoreCompileInputs.cache

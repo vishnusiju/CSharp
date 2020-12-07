@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxxBeUqamefjegAsi2tk8i20wDixFRmZNq6f6m8Z4PBQs56/GdvF0El3IzP71PG5IAZnpqadNNVgGwVVpCViRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VISHNU SIJU\\source\\repos\\EFDatabase\\EFDatabase\\EFDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VISHNU SIJU\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
